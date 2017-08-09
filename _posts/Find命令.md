@@ -1,5 +1,9 @@
 ---
 layout: post
+title: "Find命令"
+date:  
+description: "Find查找命令的使用"
+tag: 博客 
 ##find
 * find搜索：实时查找工具，通过遍历指定路径完成文件查找
    * 工作特点：
