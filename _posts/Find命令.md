@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Find命令"
-date:  
+date:  2017-08-07
 description: "Find查找命令的使用"
 tag: 博客 
 ---
